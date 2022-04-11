@@ -2,7 +2,7 @@
 A simple shell script that downloads reddit videos given a post url as an mp4. Only uses pure shell scripting, no python, javascript, etc.
 <br/><br/>
 
-## Example Usage:
+## Example:
 
 
 https://user-images.githubusercontent.com/55637354/162651375-33db68d6-26f5-4459-8e55-125fbebacc48.mp4
